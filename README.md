@@ -7,7 +7,7 @@ Here’s a brief overview of what I'm working on:
 - 🛠️ Mastering: ASP.NET | Entity Framework | Azure
 - 🌱 Learning: Microservices Architecture | Docker | Kubernetes
 - 🎯 2022 Goals: Obtain Microsoft Certified: Azure Developer Associate certification | Contribute to open-source projects related to .NET 
-- 📫 How to reach me: [kanehangatharushka@gmail.com](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nehanga-tharushka/)
+- 📫 How to reach me: [kanehangatharushka@gmail.com](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/nehanga-tharushka/)
 - ⚡ Fun Facts: I’m a gaming enthusiast, an avid traveler, and I love immersing myself in nature.
 
 I’m open to collaborating on projects and discussing innovative solutions that can provide value and growth. Feel free to check out my [GitHub repos](https://github.com/nehangatharushka?tab=repositories).
